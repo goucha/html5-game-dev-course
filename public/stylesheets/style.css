@@ -1,0 +1,11 @@
+body {}
+.container { 
+  margin: 10px auto 0 auto; 
+  width: 1170px;
+  text-align: center;
+}
+
+#game-canvas { 
+  margin: 10px auto 0 auto; 
+  border: 1px solid #eee;
+}
